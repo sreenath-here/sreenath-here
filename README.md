@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">->   Dedicated Full Stack Web Developer with expertise in Java and Python programming languages, combined with a keen interest in AI/ML technologies. Proficient in developing scalable web applications and passionate about staying updated with emerging trends in the dynamic tech industry. Committed to continuous learning and leveraging new technologies to deliver innovative solutions.</p>
+<p align="left">->   Dedicated Web Developer with expertise in Java programming language, combined with a keen interest in AI/ML technologies. Proficient in developing scalable web applications and passionate about staying updated with emerging trends in the dynamic tech industry. Committed to continuous learning and leveraging new technologies to deliver innovative solutions.</p>
 
 ###
 
